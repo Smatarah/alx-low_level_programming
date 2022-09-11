@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main-main block
+ * main-Print a script
  *
  * return:Has to be 0 (Successfuly)
  */
