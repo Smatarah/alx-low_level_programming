@@ -3,7 +3,7 @@
 /**
  * main-main block
  *
- * return:0 (Successfuly)
+ * return:Has to be 0 (Successfuly)
  */
 int main(void)
 {
